@@ -1,2 +1,2 @@
 # mystudy
-study
+just for study
